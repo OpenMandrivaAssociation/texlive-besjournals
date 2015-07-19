@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-besjournals
 Version:	20131201
-Release:	8
+Release:	9
 Summary:	TeXLive besjournals package
 Group:		Publishing
 URL:		http://tug.org/texlive
