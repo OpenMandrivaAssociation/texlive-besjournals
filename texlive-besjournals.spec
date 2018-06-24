@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-besjournals
-Version:	20171101
+Version:	20180303
 Release:	1
 Summary:	TeXLive besjournals package
 Group:		Publishing
