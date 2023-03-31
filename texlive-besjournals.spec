@@ -1,6 +1,6 @@
 Name:		texlive-besjournals
 Version:	45662
-Release:	1
+Release:	2
 Summary:	TeXLive besjournals package
 Group:		Publishing
 URL:		http://tug.org/texlive
